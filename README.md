@@ -1,2 +1,3 @@
 # Objects3D
-Projekt 3D 
+1.
+![147984185_1576938835835614_7472667060799605829_n](https://user-images.githubusercontent.com/110977781/183974209-cdccc9c1-9d28-43b4-b34d-bb7c5fc0d11b.jpg)
