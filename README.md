@@ -1,3 +1,9 @@
 # Objects3D
-1.
-![147984185_1576938835835614_7472667060799605829_n](https://user-images.githubusercontent.com/110977781/183974209-cdccc9c1-9d28-43b4-b34d-bb7c5fc0d11b.jpg)
+1. Render Altanka 3D 
+
+![Render Altanka](https://user-images.githubusercontent.com/110977781/183975014-5ed1ef02-aec4-4d09-8d04-80d6f8358f13.png)
+
+
+2. Render Balustrady 3D
+
+4. ![Render balustrady](https://user-images.githubusercontent.com/110977781/183975086-d6399461-9dc8-404f-ad15-3f45183934bb.png)
