@@ -61,3 +61,7 @@
 
 ![Render stół Ogrodowy 3D](https://user-images.githubusercontent.com/110977781/183982549-bfae8936-c0c2-40d0-bd52-1d525a561f1e.png)
 
+14. Render pustynny domek 3D 
+
+![doemk pustynia render](https://user-images.githubusercontent.com/110977781/186015679-d9750f09-f08b-4936-b200-bd7c566b8a08.png)
+
