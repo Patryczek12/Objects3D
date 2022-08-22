@@ -49,7 +49,7 @@
 
 11. Render Planeta 3D low polly 
 
-![Render Planeta 3D low polly](https://user-images.githubusercontent.com/110977781/183982491-5c816a76-e100-4100-ab10-2254a21fe842.png)
+![Planeta 3D low polly](https://user-images.githubusercontent.com/110977781/186022536-da19e9ad-f253-47ef-b24b-09012ff7ed77.png)
 
 
 12. Render Postacie Minecraft 3D
